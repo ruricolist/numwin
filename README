@@ -1,0 +1,5 @@
+Several libraries make switching windows in Emacs linear by giving
+each window a number. This package generalizes that idea to deleting,
+splitting (vertically and horizontally), zooming (i.e.
+`delete-other-windows'), growing, shrinking, and swapping windows, and
+displaying buffers and files in them.
